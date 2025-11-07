@@ -43,4 +43,3 @@ int main() {
     printf("Thanks for using the calculator!\n");
     return 0;
 }
-
